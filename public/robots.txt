@@ -1,0 +1,13 @@
+# robots.txt for LetsGoHalf
+User-agent: *
+Allow: /
+
+# Disallow admin and private routes
+Disallow: /admin
+Disallow: /api/
+Disallow: /chat
+Disallow: /settings
+Disallow: /verification
+
+# Sitemap location
+Sitemap: https://letsgohalf.com/sitemap.xml

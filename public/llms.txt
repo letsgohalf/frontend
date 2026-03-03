@@ -1,0 +1,77 @@
+# LetsGoHalf
+
+> Find your perfect match to split bills or costs in Nigeria. Connect with verified users, share apartments, split subscriptions, and save up to 50% on living expenses.
+
+## About
+
+LetsGoHalf is a Nigerian roommate-matching and cost-splitting platform that connects verified users to share apartments, split rent, subscriptions, and grocery costs. Operating primarily in Lagos, Abuja, and across Nigeria, LetsGoHalf helps young professionals and students find affordable living arrangements by matching them with compatible roommates and cost-sharing partners. The platform serves 12,000+ active users and facilitates thousands of successful matches.
+
+Website: https://letsgohalf.com
+Support: officialletsgohalf@gmail.com
+Twitter: https://twitter.com/letsgohalf
+Instagram: https://instagram.com/letsgohalf
+
+## Core Features
+
+### Roommate Matching
+Users can post listings to find roommates or available rooms. Set your budget, preferred location, lifestyle preferences, and number of spots available. The platform uses AI-powered matching to recommend compatible roommates based on location, budget overlap, lifestyle, and move-in timeline.
+
+### Subscription Splitting
+Split the cost of streaming services like Netflix, Spotify, YouTube Premium, and more with verified users. The platform calculates per-person costs automatically and connects you with trusted splitting partners.
+
+### Grocery Splitting
+Coordinate bulk grocery purchases and split costs with community members. Buy items like bags of rice, livestock, baskets of produce, and other bulk goods at wholesale prices by sharing costs.
+
+### House Listings
+Property owners, agents, and tenants with subletting rights can list available rooms, apartments, flats, and self-contained units for rent or sale.
+
+### Partner Referral Program
+House owners and agents can join the LetsGoHalf partner program to list properties and earn commissions on every successful tenant match.
+
+## How It Works
+
+1. Create an account and verify your identity
+2. Post a listing (looking for roommate, looking for place, have spare room, split subscription, or split groceries)
+3. Set your budget, location, and preferences
+4. Browse and discover posts from other users, filtered by location, budget, and type
+5. Express interest in a listing to start a screening and chat thread
+6. Get matched and move in or start splitting costs
+
+## Listing Types
+
+- **Looking for Roommate**: I have a place and need someone to share it with
+- **Looking for Place**: I need a place to stay and I'm open to sharing
+- **Have Spare Room**: I have an extra room available for rent
+- **Split Subscription**: Share streaming and digital service costs with others
+- **Split Groceries**: Split bulk purchases like food, livestock, and household goods
+- **House Alert**: Featured housing listings curated by LetsGoHalf
+
+## Key Capabilities
+
+- Identity verification for user safety and trust
+- Real-time messaging between matched users
+- Location-based discovery with proximity filtering
+- AI-powered match recommendations based on preferences
+- Budget range filtering and cost-per-person calculations
+- Interest threads with screening questions before matching
+- Community statistics and trending locations
+- Mobile app (iOS/Android) and responsive web app
+- Dark mode support
+
+## Coverage Areas
+
+LetsGoHalf operates across Nigeria with popular areas including:
+- Lagos: Lekki Phase 1, Victoria Island, Yaba, Surulere, Ikeja GRA, Ajah
+- Abuja: Wuse, Maitama, Garki, Gwarinpa
+- Other major Nigerian cities
+
+## Trust and Safety
+
+- Phone and ID verification required for full access
+- Screening questions before matching with other users
+- User reporting and moderation
+- Compliant with Nigeria Data Protection Regulation (NDPR) 2019
+
+## Contact
+
+- General Support: officialletsgohalf@gmail.com
