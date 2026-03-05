@@ -146,6 +146,10 @@ export default function TermsPage() {
               <li>Not share personal contact information until you feel comfortable doing so</li>
               <li>Report any suspicious or inappropriate messages</li>
             </ul>
+            <p className="text-neutral-600 dark:text-neutral-400 mt-4">
+              Comments, threads, and replies on posts are visible to other users and are subject to review
+              and moderation by LetsGoHalf administrators to ensure compliance with our community guidelines.
+            </p>
           </section>
 
           <section className="mb-8">
