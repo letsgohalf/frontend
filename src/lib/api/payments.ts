@@ -81,6 +81,10 @@ const paymentsApi = {
     return apiClient.post('/payments/free-boost', { postId });
   },
 
+  cancelSubscription: async (): Promise<{ success: boolean; message: string; premiumUntil: string | null }> => {
+    return apiClient.post('/payments/cancel-subscription');
+  },
+
   getPremiumStatus: async (): Promise<{ premiumEnabledWeb: boolean; premiumEnabledMobile: boolean }> => {
     return apiClient.get('/settings/premium-status');
   },
